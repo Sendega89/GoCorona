@@ -700,7 +700,6 @@ body {
    line-height: 13px;
    letter-spacing: 0.37em;
    text-transform: uppercase;
-   font-feature-settings: 'pnum'on, 'lnum'on;
    color: #000000;
 }
 
